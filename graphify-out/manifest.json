@@ -1,0 +1,490 @@
+{
+  "/home/paulosrl/projetos/liteparse/eslint.config.js": {
+    "mtime": 1777761579.8218083,
+    "hash": "5bcfbf8a9b5becbd5b99acd845a11c13"
+  },
+  "/home/paulosrl/projetos/liteparse/docs.config.mjs": {
+    "mtime": 1777761579.8178086,
+    "hash": "483b171b40ae7a7cc756c41d776203e9"
+  },
+  "/home/paulosrl/projetos/liteparse/vitest.config.ts": {
+    "mtime": 1777761579.9338005,
+    "hash": "4acae0ae6749a9723fdcca3dea6d0ee4"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/liteparse/parser.py": {
+    "mtime": 1777761579.825808,
+    "hash": "f7a2946fc9ee82976dc07161b8b46e8d"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/liteparse/types.py": {
+    "mtime": 1777761579.825808,
+    "hash": "c0f0e2b00e09facaa693c6363b6cf6c3"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/liteparse/__init__.py": {
+    "mtime": 1777761579.825808,
+    "hash": "47fa305a6024a5029a6d9e74c6e7b562"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/tests/test_screenshot_e2e.py": {
+    "mtime": 1777761579.825808,
+    "hash": "a970a55600cde2550d200be6fa9f7d21"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/tests/conftest.py": {
+    "mtime": 1777761579.825808,
+    "hash": "e398b2528bd932800960dc87590b9c99"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/tests/test_parse_e2e.py": {
+    "mtime": 1777761579.825808,
+    "hash": "6a7f97e653d2fd56b843b1b40ce07178"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/tests/test_batch_e2e.py": {
+    "mtime": 1777761579.825808,
+    "hash": "53798ffa6823030c8451814e7eaf8f6f"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/tests/__init__.py": {
+    "mtime": 1777761579.825808,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/processing.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "31ce82d7cd6de039c1071c69d15aef02"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/benchmark.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "e816c0b8845c8e6ca2ece4ce4ddbcb8a"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/__init__.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "fa9183a0175f22ad197ea1250edb0b09"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/report.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "5e139a3568c4d219e32884d351f01eaf"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/evaluation.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "d616f4713ad4620a9ace3c0a2d102eca"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/__init__.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "451f82b9ab4ef3199766e744847f9eae"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/parsers/liteparse.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "d7dc9d4a9847dd9ed1cc803039f3bc1c"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/parsers/pypdf.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "73aa90162f7a67c6ac140ad628743d6d"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/parsers/base.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "777189e1467be3711d6d8e50dc0f30b9"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/parsers/markitdown.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "616d934616521851ec277385becc8dbf"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/parsers/__init__.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "63050c9ddae99a482324d66d45a2d210"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/parsers/pymupdf.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "664515bf07861d2bfe6f009cc3f8296f"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/llm/base.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "53ddef87384c0c4d23e33a0fafc56a9e"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/llm/__init__.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "f53d0ef30aad6d0e63d5b11c48f904ff"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/src/liteparse_eval/providers/llm/anthropic.py": {
+    "mtime": 1777761579.8178086,
+    "hash": "a9ed6bfa04c0381b048bd7ced673d74d"
+  },
+  "/home/paulosrl/projetos/liteparse/cli/parse.ts": {
+    "mtime": 1777761579.813809,
+    "hash": "7151512edb86beba53cdbbb5396fae20"
+  },
+  "/home/paulosrl/projetos/liteparse/src/index.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "7e701fc28cd5f65ede8199eef6c3abd5"
+  },
+  "/home/paulosrl/projetos/liteparse/src/lib.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "34b6f919ab3ca95bfc481e861ebb084e"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/ocr/tesseract.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "17a105840c31635306f83577614db00d"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/ocr/http-simple.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "2cb6dd6cbff4580c86137216ec5656cb"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/ocr/interface.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "8c88d510d084f21bc30f3dc566b4c77b"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/ocr/tesseract.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "48545aa53deb7f27b36384b0230e42d1"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/ocr/http-simple.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "38237e055e6d4abd7e8658a269fcea80"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/pdfjsImporter.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "0b767afe6f0899b90055d7cc14322945"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/pdfjs.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "149dc8bcd94073c6c90bbe6967308ab4"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/pdfjs.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "7e793fe74adb83df9ba7ee36b6f26ebf"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/interface.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "be6395dee438f95842d1ba4a4b0c2004"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/pdfium-renderer.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "b27c4249f0814f814e4b42cc4836eab6"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/pdfium-renderer.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "19a1cb9fb30e6354e6bf52a52346b601"
+  },
+  "/home/paulosrl/projetos/liteparse/src/core/parser.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "0565d85dd3ae9b228ebc56d5b6becb9a"
+  },
+  "/home/paulosrl/projetos/liteparse/src/core/config.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "e6945260315f43ed319cbbf0fe23c39d"
+  },
+  "/home/paulosrl/projetos/liteparse/src/core/config.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "0322859a4f2aaa08cced3928dd79630f"
+  },
+  "/home/paulosrl/projetos/liteparse/src/core/types.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "f94640f497ab7e6b23eb69f06ee6f941"
+  },
+  "/home/paulosrl/projetos/liteparse/src/core/parser.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "544ee9dad7b9e3f1c1253c7b96ff937a"
+  },
+  "/home/paulosrl/projetos/liteparse/src/conversion/convertToPdf.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "4201386d619e5a89ad3eb57c63b1328f"
+  },
+  "/home/paulosrl/projetos/liteparse/src/conversion/convertToPdf.test.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "d8026971405f5944863591ddaa9dd6c2"
+  },
+  "/home/paulosrl/projetos/liteparse/src/output/text.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "e41a8a73366f6b7a2814d7edfb275ec6"
+  },
+  "/home/paulosrl/projetos/liteparse/src/output/json.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "938a1c06ea7990487ea1d78bf0603f19"
+  },
+  "/home/paulosrl/projetos/liteparse/src/output/json.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "1c22b4bbaaf0e0270157098997fca6af"
+  },
+  "/home/paulosrl/projetos/liteparse/src/output/text.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "c56728ae8387a3e584426d46f5f7772b"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/gridDebugLogger.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "58a7ca604444a4fc83c9122094a68bf8"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/ocrUtils.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "c794714176a383f152ee07e448922b95"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/markupUtils.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "eb0c81fc7a78f4d09f1c97a482da1007"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/searchItems.test.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "cfd757461f77ef856305cd766fc14648"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/bbox.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "41804cdaeea86ed832cdc6ada05de3b3"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/textUtils.test.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "36efdf891c3734950145cf084a7e7f8d"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/gridProjection.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "c0f9c2c5ddeca17a659ce9983f83135f"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/bbox.test.ts": {
+    "mtime": 1777761579.8298078,
+    "hash": "168a92fa094d711675e77d9e9312322e"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/octUtils.test.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "69f4ce225e36c57afae684ae2a1ca910"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/gridVisualizer.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "f82703fd304c86f3b364407deefcc7c7"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/grid.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "a5ced40c3c284219d779c27558a887fc"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/cleanText.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "7dada7b94e1a1b7cc70833f8751aa42b"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/textUtils.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "31e9a0da13dac6e9fb7c4d17546f6fcc"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/cleanText.test.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "227fb3533c73c569e2b884136f1dc1d2"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/searchItems.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "a74e37a8a48fc78094acde71bdcf0d38"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/gridProjection.test.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "f26dad1a7b8c7187f5224c93f88de11e"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/markupUtils.test.ts": {
+    "mtime": 1777761579.8338075,
+    "hash": "52d8a8eb3f2981364ba57199c92dc34e"
+  },
+  "/home/paulosrl/projetos/liteparse/src/vendor/pdfjs/pdf.sandbox.mjs": {
+    "mtime": 1777761579.8778045,
+    "hash": "8fc7bc9c2113e3d706a8ab5b67a73d59"
+  },
+  "/home/paulosrl/projetos/liteparse/src/vendor/pdfjs/pdf.mjs": {
+    "mtime": 1777761579.8618054,
+    "hash": "31ccf3077dd0f20989cd7c463b946c4c"
+  },
+  "/home/paulosrl/projetos/liteparse/src/vendor/pdfjs/pdf.worker.mjs": {
+    "mtime": 1777761579.897803,
+    "hash": "db460a8412f8d8f1c5518b1d5bdb3933"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/paddleocr/test_server.py": {
+    "mtime": 1777761579.8218083,
+    "hash": "851dab37993345734679b411f167562f"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/paddleocr/server.py": {
+    "mtime": 1777761579.8218083,
+    "hash": "9cb67d68dd568673e7507e4978892967"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/easyocr/test_server.py": {
+    "mtime": 1777761579.8218083,
+    "hash": "0fe72cd5f972facaf4662c7e8de30630"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/easyocr/server.py": {
+    "mtime": 1777761579.8218083,
+    "hash": "1081318db4d03b828a62f30ac824c072"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/create-dataset.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "62e8ef88c9818b989646235894f88333"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/compare-dataset.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "d239136272a83d2fa3534d0e4d6262e2"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/upload-dataset.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "a477c5ecaae25fb2567bd19213cde9b8"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/entry.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "c8b0ec7a1d8f91379222b903c281f561"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/vite.config.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "f7bb8b124ec8466ad70875a0d040f178"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/pdfjsImporter.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "b15a8eea85eae82247142b7385cb44da"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/gridDebugLogger.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "e24f25c449d9f2768ebc2d88a3b7f2d8"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/empty.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "fe3a4f0c91c9a5dfb1cc39a05daa0efb"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/http-simple.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "4445faea730ee55fd2399bf745d0ebdb"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/convertToPdf.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "7414511d6617fe7a321800b910648e37"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/gridVisualizer.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "156fef218597b3f700ea9703b0eed04f"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/pdfium-renderer.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "bdb561cf28eb9e781d6828c0028bf34f"
+  },
+  "/home/paulosrl/projetos/liteparse/scripts/browser-compat/stubs/file-type.ts": {
+    "mtime": 1777761579.825808,
+    "hash": "8c23e6c8188fcde1c9f3bc8ab45212c8"
+  },
+  "/home/paulosrl/projetos/liteparse/AGENTS.md": {
+    "mtime": 1777761579.813809,
+    "hash": "b4678394c2f54b89a739a1d733594ec7"
+  },
+  "/home/paulosrl/projetos/liteparse/CLAUDE.md": {
+    "mtime": 1777761579.813809,
+    "hash": "d9c1aa00474b45b2de5f587fe328cb8d"
+  },
+  "/home/paulosrl/projetos/liteparse/CHANGELOG.md": {
+    "mtime": 1777761579.813809,
+    "hash": "a080504fac17e267d0ab6e97cdff4321"
+  },
+  "/home/paulosrl/projetos/liteparse/README.md": {
+    "mtime": 1777761579.813809,
+    "hash": "1b8be8bed8c25ed30bae37470c9b6948"
+  },
+  "/home/paulosrl/projetos/liteparse/SECURITY.md": {
+    "mtime": 1777761579.813809,
+    "hash": "106957b6cb32dde03530513801bda005"
+  },
+  "/home/paulosrl/projetos/liteparse/OCR_API_SPEC.md": {
+    "mtime": 1777761579.813809,
+    "hash": "6d3df754ea3c931484aeda5ad0026df3"
+  },
+  "/home/paulosrl/projetos/liteparse/CONTRIBUTING.md": {
+    "mtime": 1777761579.813809,
+    "hash": "db4edad1fab32699d17ae34522d0da60"
+  },
+  "/home/paulosrl/projetos/liteparse/packages/python/README.md": {
+    "mtime": 1777761579.825808,
+    "hash": "d3969e98188554ee82dda049c20c4560"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/getting_started.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "b54513889aca1636a78971eab4518bd7"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/index.md": {
+    "mtime": 1777761579.8218083,
+    "hash": "ec10a19da0b3d3c970b3b11ceec6e2cc"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/_meta.yml": {
+    "mtime": 1777761579.8178086,
+    "hash": "dd1492789acbcb0385011505ece4d786"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/cli-reference.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "e6a9b5787514af5ae8474ad57c3a6c29"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/parsing-urls.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "e854681e5fd02f4c5deeee3a7fb13a76"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/agent-skill.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "7132dd70173bb9edde36acb99e29bdb6"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/visual-citations.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "f11b89d979e7cefd558c629f72f6e262"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/multi-format.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "ae6e9b50ee6f2516b0d6bff443470289"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/browser-usage.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "019e79ee8b2a2c4790bd43a15f0a301f"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/library-usage.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "fef5098c7791c14ab6bb506ac6440a1c"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/_meta.yml": {
+    "mtime": 1777761579.8178086,
+    "hash": "fe8bfdc6730284e43e1fc16b946f07e4"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/ocr.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "18128d7adc59e32598865ed43d1730d2"
+  },
+  "/home/paulosrl/projetos/liteparse/dataset_eval_utils/README.md": {
+    "mtime": 1777761579.8178086,
+    "hash": "c14dfc06e9c0f5f42f89b614d239dfc0"
+  },
+  "/home/paulosrl/projetos/liteparse/cli/README.md": {
+    "mtime": 1777761579.813809,
+    "hash": "a3cc038225dea1a532ee89315570092f"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/README.md": {
+    "mtime": 1777761579.8298078,
+    "hash": "370153d504d75f95cdce79310288d113"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/ocr/README.md": {
+    "mtime": 1777761579.8298078,
+    "hash": "960647cbbb1895e00f43b64f14bf9893"
+  },
+  "/home/paulosrl/projetos/liteparse/src/engines/pdf/README.md": {
+    "mtime": 1777761579.8298078,
+    "hash": "49d9ac365655089589da47b7a69c021f"
+  },
+  "/home/paulosrl/projetos/liteparse/src/core/README.md": {
+    "mtime": 1777761579.8298078,
+    "hash": "a8c01af8adb865b286bec1f4e940854d"
+  },
+  "/home/paulosrl/projetos/liteparse/src/conversion/README.md": {
+    "mtime": 1777761579.825808,
+    "hash": "7f1337fb800d8c373d32b7cdadb4eb7c"
+  },
+  "/home/paulosrl/projetos/liteparse/src/output/README.md": {
+    "mtime": 1777761579.8298078,
+    "hash": "dd5c90d3afe52fde8e42340bfff551f0"
+  },
+  "/home/paulosrl/projetos/liteparse/src/processing/README.md": {
+    "mtime": 1777761579.8298078,
+    "hash": "b94b4d80c1f0b6eb24776018b8002b0e"
+  },
+  "/home/paulosrl/projetos/liteparse/src/vendor/pdfjs/README.md": {
+    "mtime": 1777761579.8378072,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/README.md": {
+    "mtime": 1777761579.8218083,
+    "hash": "3991d291c3497dad00940c0bbaded6a9"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/paddleocr/README.md": {
+    "mtime": 1777761579.8218083,
+    "hash": "a73ee641caa52bb1f6548e0e02957877"
+  },
+  "/home/paulosrl/projetos/liteparse/ocr/easyocr/README.md": {
+    "mtime": 1777761579.8218083,
+    "hash": "b30d5d6f8cf642d52e55744d6381dc75"
+  },
+  "/home/paulosrl/projetos/liteparse/docs/src/content/docs/liteparse/guides/visual_citation.png": {
+    "mtime": 1777761579.8178086,
+    "hash": "10a4995d06b0f207ce51de142ded8a00"
+  }
+}
